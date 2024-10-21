@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79150457554",
+    "project_id": "endsemlab-b25d9",
+    "storage_bucket": "endsemlab-b25d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79150457554:android:c28dc4a92bfe7d782a030b",
+        "android_client_info": {
+          "package_name": "com.example.endsemlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyagArTRn9LBbm1pOMMTnzf2MY-9gY6_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
